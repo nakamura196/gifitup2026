@@ -1,0 +1,19 @@
+# downloaded source images and build output (rebuilt by scripts)
+dl/
+build/
+*.gif
+!docs/*.gif
+
+# env / secret files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+
+# editor / OS
+.DS_Store
+.idea/
+.vscode/settings.json
+__pycache__/

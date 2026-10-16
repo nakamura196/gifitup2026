@@ -1,0 +1,28 @@
+{
+  "image": "kuniyoshi",
+  "width": 950,
+  "height": 1394,
+  "encoding": "labels.png red channel = person number, 0 = none",
+  "people": [
+    {
+      "id": 1,
+      "name": "1 あごの男",
+      "color": "#e6194b"
+    },
+    {
+      "id": 2,
+      "name": "2 指の男",
+      "color": "#4363d8"
+    },
+    {
+      "id": 3,
+      "name": "3 親指の男",
+      "color": "#f58231"
+    },
+    {
+      "id": 4,
+      "name": "4 手首の頭",
+      "color": "#f032e6"
+    }
+  ]
+}
